@@ -1,0 +1,19 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "Projeto para aprender TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://edvaldoszy@github.com/learning-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "learning"
+  ],
+  "author": "Edvaldo Szymonek",
+  "license": "MIT"
+}
