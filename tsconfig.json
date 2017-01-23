@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "rootDir": "src",
+        "outDir": "dist"
+    },
+    "include": [
+        "**/*"
+    ],
+    "exclude": [
+        "nodule_modules"
+    ]
+}
