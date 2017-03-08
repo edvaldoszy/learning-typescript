@@ -12,6 +12,10 @@ class ArrayList<T> implements List<T> {
         this.dataset.push(object);
     }
 
+    public remove(index: number) {
+        delete this.dataset[index];
+    }
+
     public size(): number {
         return this.dataset.length;
     }
